@@ -1,0 +1,283 @@
+[
+  {
+    "higlights": [
+      {
+        "id": 1,
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "cover": "https://th.bing.com/th/id/OIP.nMfZ8whHO1AMGBQBE7dSfwDIEs?w=201&h=302&c=7&r=0&o=5&pid=1.7",
+        "summary": "A jornada obsessiva do capitão Ahab em busca de vingança contra a baleia branca, Moby Dick, que mutilou sua perna em uma batalha anterior."
+      },
+      {
+        "id": 2,
+        "title": "Harry Potter e a Pedra Filosofal",
+        "author": "J.K. Rowling",
+        "cover": "https://m.media-amazon.com/images/I/51lRMYwP-4L.jpg",
+        "summary": "O primeiro livro da série Harry Potter, que segue a jornada do jovem bruxo enquanto ele descobre seu destino na Escola de Magia e Bruxaria de Hogwarts."
+      },
+      {
+        "id": 3,
+        "title": "A Metamorfose",
+        "author": "Franz Kafka",
+        "cover": "https://m.media-amazon.com/images/I/41S8Cz5hJvL._SY445_SX342_.jpg",
+        "summary": "A história de Gregor Samsa, que acorda um dia transformado em um inseto gigante e enfrenta o isolamento e a incompreensão de sua família."
+      },
+      {
+        "id": 4,
+        "title": "As Aventuras de Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "cover": "https://m.media-amazon.com/images/I/613LTnr4lgL._AC_UL320_.jpg",
+        "summary": "Uma série de contos que apresentam as habilidades de dedução do famoso detetive Sherlock Holmes e seu fiel amigo Dr. Watson."
+      },
+      {
+        "id": 5,
+        "title": "O Pequeno Príncipe",
+        "author": "Antoine de Saint-Exupéry",
+        "cover": "https://m.media-amazon.com/images/I/419ebAR2eeL._SY445_SX342_.jpg",
+        "summary": "A história de um jovem príncipe que viaja por diferentes planetas e faz amizade com um aviador, explorando questões sobre amor, amizade e vida."
+      },
+      {
+        "id": 6,
+        "title": "A Revolução dos Bichos",
+        "author": "George Orwell",
+        "cover": "https://m.media-amazon.com/images/I/81DBKwEXkFL._AC_UL320_.jpg",
+        "summary": "Uma fábula que narra a rebelião dos animais de uma fazenda contra seus donos humanos, mas acaba se transformando em uma ditadura ainda mais opressiva."
+      }
+    ],
+    "most_popular": [
+      {
+        "id": 1,
+        "title": "A Revolução dos Bichos",
+        "author": "George Orwell",
+        "cover": "https://m.media-amazon.com/images/I/81DBKwEXkFL._AC_UL320_.jpg",
+        "summary": "Uma fábula que narra a rebelião dos animais de uma fazenda contra seus donos humanos, mas acaba se transformando em uma ditadura ainda mais opressiva."
+      },
+      {
+        "id": 2,
+        "title": "Crime e Castigo",
+        "author": "Fiódor Dostoiévski",
+        "cover": "https://m.media-amazon.com/images/I/71l6UlO3TxL._AC_UL320_.jpg",
+        "summary": "A história de Raskólnikov, um estudante que comete um assassinato e lida com as consequências psicológicas de seu ato."
+      },
+      {
+        "id": 3,
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "cover": "https://m.media-amazon.com/images/I/71yTTLMgq8L._AC_UL320_.jpg",
+        "summary": "Uma das peças mais famosas de Shakespeare, que retrata a vingança de Hamlet contra seu tio Cláudio pelo assassinato de seu pai."
+      },
+      {
+        "id": 4,
+        "title": "O Hobbit",
+        "author": "J.R.R. Tolkien",
+        "cover": "https://m.media-amazon.com/images/I/91jny5rWgES._AC_UL320_.jpg",
+        "summary": "A jornada do hobbit Bilbo Bolseiro em busca do tesouro guardado pelo dragão Smaug, acompanhado por um grupo de anões e pelo mago Gandalf."
+      },
+      {
+        "id": 5,
+        "title": "Anna Karenina",
+        "author": "Fiódor Dostoiévski",
+        "cover": "https://m.media-amazon.com/images/I/61pTISHTptL._AC_UL320_.jpg",
+        "summary": "Um dos maiores romances russos, que explora os temas do amor, adultério e sociedade por meio da vida de Anna Karenina."
+      },
+      {
+        "id": 6,
+        "title": "O Sol é para Todos",
+        "author": "Harper Lee",
+        "cover": "https://m.media-amazon.com/images/I/91WKPd60P4L._AC_UL320_.jpg",
+        "summary": "A história de um advogado que defende um homem negro injustamente acusado de estupro em uma pequena cidade do sul dos EUA."
+      },
+      {
+        "id": 7,
+        "title": "O Grande Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "cover": "https://m.media-amazon.com/images/I/81Ph4QRq1gL._AC_UL320_.jpg",
+        "summary": "Uma história ambientada na Era do Jazz que explora o sonho americano, amor e tragédia através dos olhos do misterioso Jay Gatsby."
+      },
+      {
+        "id": 8,
+        "title": "Os Miseráveis",
+        "author": "Victor Hugo",
+        "cover": "https://m.media-amazon.com/images/I/71L28YvPobL._AC_UL320_.jpg",
+        "summary": "Um épico francês que segue a vida de Jean Valjean, um homem que busca redenção após passar anos na prisão por roubar um pão."
+      },
+      {
+        "id": 9,
+        "title": "Maus",
+        "author": "Art Spiegelman",
+        "cover": "https://m.media-amazon.com/images/I/51jq-ZU9yHL._SY445_SX342_.jpg",
+        "summary": "Uma história em quadrinhos autobiográfica que retrata a vida do pai do autor como um sobrevivente do Holocausto."
+      }
+    ],
+    "recently": [
+      {
+        "id": 13,
+        "title": "Crime e Castigo",
+        "author": "Fiódor Dostoiévski",
+        "cover": "https://m.media-amazon.com/images/I/71l6UlO3TxL._AC_UL320_.jpg",
+        "summary": "A história de Raskólnikov, um estudante que comete um assassinato e lida com as consequências psicológicas de seu ato."
+      },
+      {
+        "id": 14,
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "cover": "https://m.media-amazon.com/images/I/71yTTLMgq8L._AC_UL320_.jpg",
+        "summary": "Uma das peças mais famosas de Shakespeare, que retrata a vingança de Hamlet contra seu tio Cláudio pelo assassinato de seu pai."
+      },
+      {
+        "id": 15,
+        "title": "O Hobbit",
+        "author": "J.R.R. Tolkien",
+        "cover": "https://m.media-amazon.com/images/I/91jny5rWgES._AC_UL320_.jpg",
+        "summary": "A jornada do hobbit Bilbo Bolseiro em busca do tesouro guardado pelo dragão Smaug, acompanhado por um grupo de anões e pelo mago Gandalf."
+      },
+      {
+        "id": 16,
+        "title": "Anna Karenina",
+        "author": "Fiódor Dostoiévski",
+        "cover": "https://m.media-amazon.com/images/I/61pTISHTptL._AC_UL320_.jpg",
+        "summary": "Um dos maiores romances russos, que explora os temas do amor, adultério e sociedade por meio da vida de Anna Karenina."
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Aventuras de Alice no País das Maravilhas",
+    "author": "Lewis Carroll",
+    "cover": "https://th.bing.com/th/id/OIP.iR5G3krunWFzp-fzPWNPvQHaLa?rs=1&pid=ImgDetMain",
+    "summary": "A história de uma garota chamada Alice que cai em um buraco de coelho e entra em um mundo fantástico cheio de criaturas estranhas e situações peculiares."
+  },
+  {
+    "id": 2,
+    "title": "O Senhor dos Anéis: A Sociedade do Anel",
+    "author": "J.R.R. Tolkien",
+    "cover": "https://th.bing.com/th/id/OIP.gYy0LFx1nVvi3CYiXHqFMQHaLU?w=127&h=194&c=7&r=0&o=5&pid=1.7",
+    "summary": "A primeira parte da épica jornada de Frodo Bolseiro para destruir um anel mágico e salvar a Terra-média do poder maligno do Senhor das Trevas, Sauron."
+  },
+  {
+    "id": 3,
+    "title": "Orgulho e Preconceito",
+    "author": "Jane Austen",
+    "cover": "https://th.bing.com/th/id/OIP.lFVp1_cJn8xAuF4ngHKd1QHaKq?w=201&h=290&c=7&r=0&o=5&pid=1.7",
+    "summary": "Um romance clássico que retrata os complexos relacionamentos sociais e amorosos da jovem Elizabeth Bennet e do Sr. Darcy na Inglaterra do século XIX."
+  },
+  {
+    "id": 4,
+    "title": "1984",
+    "author": "George Orwell",
+    "cover": "https://th.bing.com/th/id/OIP.P_r-0CWQq2jPvqDiDvTeVAHaLb?w=201&h=310&c=7&r=0&o=5&pid=1.7",
+    "summary": "Um romance distópico que descreve um regime totalitário governado por um líder conhecido como Grande Irmão, que controla tudo e todos."
+  },
+  {
+    "id": 5,
+    "title": "Cem Anos de Solidão",
+    "author": "Gabriel García Márquez",
+    "cover": "https://th.bing.com/th/id/OIP.2txSjIF4vd9tMQRBXatH3gHaLO?w=201&h=304&c=7&r=0&o=5&pid=1.7",
+    "summary": "Uma saga que narra a história da família Buendía ao longo de várias gerações, explorando temas de amor, solidão e destino."
+  },
+  {
+    "id": 6,
+    "title": "Dom Quixote",
+    "author": "Miguel de Cervantes",
+    "cover": "https://th.bing.com/th/id/OIP.5j6C8Py_XDY0cL7NoDphdQHaKy?w=201&h=292&c=7&r=0&o=5&pid=1.7",
+    "summary": "A história de um homem que enlouquece por ler muitos romances de cavalaria e decide se tornar um cavaleiro andante, embarcando em aventuras absurdas."
+  },
+  {
+    "id": 7,
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "cover": "https://th.bing.com/th/id/OIP.nMfZ8whHO1AMGBQBE7dSfwDIEs?w=201&h=302&c=7&r=0&o=5&pid=1.7",
+    "summary": "A jornada obsessiva do capitão Ahab em busca de vingança contra a baleia branca, Moby Dick, que mutilou sua perna em uma batalha anterior."
+  },
+  {
+    "id": 8,
+    "title": "Harry Potter e a Pedra Filosofal",
+    "author": "J.K. Rowling",
+    "cover": "https://m.media-amazon.com/images/I/51lRMYwP-4L.jpg",
+    "summary": "O primeiro livro da série Harry Potter, que segue a jornada do jovem bruxo enquanto ele descobre seu destino na Escola de Magia e Bruxaria de Hogwarts."
+  },
+  {
+    "id": 9,
+    "title": "A Metamorfose",
+    "author": "Franz Kafka",
+    "cover": "https://m.media-amazon.com/images/I/41S8Cz5hJvL._SY445_SX342_.jpg",
+    "summary": "A história de Gregor Samsa, que acorda um dia transformado em um inseto gigante e enfrenta o isolamento e a incompreensão de sua família."
+  },
+  {
+    "id": 10,
+    "title": "As Aventuras de Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "cover": "https://m.media-amazon.com/images/I/613LTnr4lgL._AC_UL320_.jpg",
+    "summary": "Uma série de contos que apresentam as habilidades de dedução do famoso detetive Sherlock Holmes e seu fiel amigo Dr. Watson."
+  },
+  {
+    "id": 11,
+    "title": "O Pequeno Príncipe",
+    "author": "Antoine de Saint-Exupéry",
+    "cover": "https://m.media-amazon.com/images/I/419ebAR2eeL._SY445_SX342_.jpg",
+    "summary": "A história de um jovem príncipe que viaja por diferentes planetas e faz amizade com um aviador, explorando questões sobre amor, amizade e vida."
+  },
+  {
+    "id": 12,
+    "title": "A Revolução dos Bichos",
+    "author": "George Orwell",
+    "cover": "https://m.media-amazon.com/images/I/81DBKwEXkFL._AC_UL320_.jpg",
+    "summary": "Uma fábula que narra a rebelião dos animais de uma fazenda contra seus donos humanos, mas acaba se transformando em uma ditadura ainda mais opressiva."
+  },
+  {
+    "id": 13,
+    "title": "Crime e Castigo",
+    "author": "Fiódor Dostoiévski",
+    "cover": "https://m.media-amazon.com/images/I/71l6UlO3TxL._AC_UL320_.jpg",
+    "summary": "A história de Raskólnikov, um estudante que comete um assassinato e lida com as consequências psicológicas de seu ato."
+  },
+  {
+    "id": 14,
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "cover": "https://m.media-amazon.com/images/I/71yTTLMgq8L._AC_UL320_.jpg",
+    "summary": "Uma das peças mais famosas de Shakespeare, que retrata a vingança de Hamlet contra seu tio Cláudio pelo assassinato de seu pai."
+  },
+  {
+    "id": 15,
+    "title": "O Hobbit",
+    "author": "J.R.R. Tolkien",
+    "cover": "https://m.media-amazon.com/images/I/91jny5rWgES._AC_UL320_.jpg",
+    "summary": "A jornada do hobbit Bilbo Bolseiro em busca do tesouro guardado pelo dragão Smaug, acompanhado por um grupo de anões e pelo mago Gandalf."
+  },
+  {
+    "id": 16,
+    "title": "Anna Karenina",
+    "author": "Fiódor Dostoiévski",
+    "cover": "https://m.media-amazon.com/images/I/61pTISHTptL._AC_UL320_.jpg",
+    "summary": "Um dos maiores romances russos, que explora os temas do amor, adultério e sociedade por meio da vida de Anna Karenina."
+  },
+  {
+    "id": 17,
+    "title": "O Sol é para Todos",
+    "author": "Harper Lee",
+    "cover": "https://m.media-amazon.com/images/I/91WKPd60P4L._AC_UL320_.jpg",
+    "summary": "A história de um advogado que defende um homem negro injustamente acusado de estupro em uma pequena cidade do sul dos EUA."
+  },
+  {
+    "id": 18,
+    "title": "O Grande Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "cover": "https://m.media-amazon.com/images/I/81Ph4QRq1gL._AC_UL320_.jpg",
+    "summary": "Uma história ambientada na Era do Jazz que explora o sonho americano, amor e tragédia através dos olhos do misterioso Jay Gatsby."
+  },
+  {
+    "id": 19,
+    "title": "Os Miseráveis",
+    "author": "Victor Hugo",
+    "cover": "https://m.media-amazon.com/images/I/71L28YvPobL._AC_UL320_.jpg",
+    "summary": "Um épico francês que segue a vida de Jean Valjean, um homem que busca redenção após passar anos na prisão por roubar um pão."
+  },
+  {
+    "id": 20,
+    "title": "Maus",
+    "author": "Art Spiegelman",
+    "cover": "https://m.media-amazon.com/images/I/51jq-ZU9yHL._SY445_SX342_.jpg",
+    "summary": "Uma história em quadrinhos autobiográfica que retrata a vida do pai do autor como um sobrevivente do Holocausto."
+  }
+]
