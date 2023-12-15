@@ -1,6 +1,6 @@
 **Livraria Conecta IF**
 
-**Alunos Desenvolvedores: Gaston Gouveia, Jorge Lemos, Ryan Silva, Talles Ian, Vinicius Honorato**
+**Alunos Desenvolvedores: Jorge Lemos, Ryan Silva, Talles Ian, Vinicius Honorato**
 
 **Disciplina: Dispositivos Móveis**
 
